@@ -1,0 +1,1 @@
+<view class="container"><view><z-calendar vue-id="8dd740cc-1" datePrice="{{datePrice}}" howManyMonth="6" defaultSelect="2021-05-28" mode="1" data-event-opts="{{[['^changeDate',[['changeDate']]]]}}" bind:changeDate="__e" bind:__l="__l"></z-calendar></view></view>
